@@ -1,0 +1,3 @@
+Please run the application with the help of JobRunnerLocal located in src/test folder.
+
+The result located under the root folder processing_result/products_ratings.csv
